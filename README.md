@@ -1,9 +1,9 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:38bdf8&height=220&section=header&text=Hi%20there,%20I'm%20Edwin%20E%20Binu%20👋&fontSize=38&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%" />
+  <!-- Pokémon LeafGreen Inspired Header Banner with Mello Animation -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:183060,50:2850A8,100:38C058&height=220&section=header&text=Edwin%20E%20Binu%20👋&fontSize=40&fontColor=ffffff&fontAlignY=35&animation=mello&desc=AI%20%7C%20Data%20Science%20%7C%20Big%20Data&descSize=18&descAlignY=55" width="100%" />
 
-  ### 🤖 AI Engineer | Data Scientist | Big Data Practitioner
+  <br/>
 
   <!-- Dynamic Typing Effect -->
   <a href="https://git.io/typing-svg">
@@ -42,7 +42,7 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=400&q=80" width="320px" style="border-radius: 10px;" alt="Data Science & Coding" />
+      <img src="https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?auto=format&fit=crop&w=400&q=80" width="320px" style="border-radius: 10px;" alt="Programming & Web Development" />
     </td>
   </tr>
 </table>
@@ -102,28 +102,23 @@
 
 ---
 
-### 📊 GitHub Activity & Analytics
+### 📊 GitHub Activity & Visualization
+
+<p align="center">
+  <!-- Stock Image 1: Data Analytics Visual -->
+  <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=480&h=260&q=80" style="border-radius: 10px; margin-right: 10px;" alt="Data Analytics Dashboard" />
+  <!-- Stock Image 2: Artificial Intelligence concept -->
+  <img src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=480&h=260&q=80" style="border-radius: 10px;" alt="AI Concept Visualization" />
+</p>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eddycurrentz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddycurrentz&layout=compact&theme=tokyonight&hide=html,css"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eddycurrentz&theme=tokyonight" alt="Streak Stats"/>
-</div>
-
----
-
-<!-- Footer Quote Banner -->
-<div align="center">
+  <!-- Dynamic Quote Banner (Kept for trendy feel) -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Tech Quote" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:161b22,100:0d1117&height=120&section=footer" width="100%" />
+  <!-- Pokémon LeafGreen Inspired Footer Banner with Mello Animation -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38C058,50:2850A8,100:183060&height=120&section=footer&animation=mello" width="100%" />
 </div>
