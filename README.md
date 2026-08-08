@@ -32,47 +32,47 @@ edwin@dev:~$ cat currently.txt
 
 <p align="center"><em>Languages & Core</em></p>
 <p align="center">
-<img src="https://cdn.simpleicons.org/c/A8B9CC" width="45" height="45" alt="c"/>
-<img src="https://cdn.simpleicons.org/cplusplus/00599C" width="45" height="45" alt="cpp"/>
-<img src="https://cdn.simpleicons.org/python/3776AB" width="45" height="45" alt="python"/>
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="45" height="45" alt="javascript"/>
-<img src="https://cdn.simpleicons.org/html5/E34F26" width="45" height="45" alt="html5"/>
-<img src="https://cdn.simpleicons.org/css3/1572B6" width="45" height="45" alt="css3"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="c"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="cpp"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="python"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="javascript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="html5"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="css3"/>
 </p>
 
 <p align="center"><em>AI · Data Science · Notebooks</em></p>
 <p align="center">
-<img src="https://cdn.simpleicons.org/jupyter/F37626" width="45" height="45" alt="jupyter"/>
-<img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="45" height="45" alt="google colab"/>
-<img src="https://cdn.simpleicons.org/pandas/150458" width="45" height="45" alt="pandas"/>
-<img src="https://cdn.simpleicons.org/numpy/013243" width="45" height="45" alt="numpy"/>
-<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="45" height="45" alt="scikit-learn"/>
-<img src="https://cdn.simpleicons.org/plotly/3F4F75" width="45" height="45" alt="plotly"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="45" height="45" alt="jupyter"/>
+<img src="https://www.gstatic.com/devrel-devsite/prod/vf2f7ee2107d244d6da2e2fc9c6a3c11c94c5e5ad13022e42fdd5f0374ea0106/colab/images/favicon.ico" width="45" height="45" alt="google colab"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="45" height="45" alt="pandas"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45" alt="numpy"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="scikit-learn"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" width="45" height="45" alt="plotly"/>
 </p>
 
 <p align="center"><em>Big Data (BDA Project Stack)</em></p>
 <p align="center">
-<img src="https://cdn.simpleicons.org/apachehadoop/66CCFF" width="45" height="45" alt="hadoop"/>
-<img src="https://cdn.simpleicons.org/apachespark/E25A1C" width="45" height="45" alt="spark"/>
-<img src="https://cdn.simpleicons.org/apachehive/FDEE21" width="45" height="45" alt="hive"/>
+<img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="45" height="45" alt="hadoop"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" width="45" height="45" alt="spark"/>
+<img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" width="45" height="45" alt="hive"/>
 </p>
 
 <p align="center"><em>Databases, Backend & Web</em></p>
 <p align="center">
-<img src="https://cdn.simpleicons.org/mysql/4479A1" width="45" height="45" alt="mysql"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="mysql"/>
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45" height="45" alt="mssql"/>
-<img src="https://cdn.simpleicons.org/firebase/FFCA28" width="45" height="45" alt="firebase"/>
-<img src="https://cdn.simpleicons.org/flask/000000" width="45" height="45" alt="flask"/>
-<img src="https://cdn.simpleicons.org/express/000000" width="45" height="45" alt="express"/>
-<img src="https://cdn.simpleicons.org/nodedotjs/339933" width="45" height="45" alt="nodejs"/>
-<img src="https://cdn.simpleicons.org/nextdotjs/000000" width="45" height="45" alt="nextjs"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45" height="45" alt="firebase"/>
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="45" height="45" alt="flask"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45" alt="express"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="nodejs"/>
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="45" height="45" alt="nextjs"/>
 </p>
 
 <p align="center"><em>Visualization & Tools</em></p>
 <p align="center">
-<img src="https://cdn.simpleicons.org/d3dotjs/F9A03C" width="45" height="45" alt="d3js"/>
-<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="45" height="45" alt="tailwind"/>
-<img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" width="45" height="45" alt="photoshop"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" width="45" height="45" alt="d3js"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45" alt="tailwind"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="45" height="45" alt="photoshop"/>
 </p>
 
 <br/>
@@ -92,14 +92,14 @@ edwin@dev:~$ cat currently.txt
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=eddycurrentz&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="contribution graph" width="90%"/>
 </div>
 
-<!--
-✨ Optional: animated "snake" that eats your contribution graph.
-1. Create .github/workflows/snake.yml in this profile repo with the official
-   Platane/snk action (search "github-contribution-snake" on GitHub).
-2. It generates an SVG at output/github-contribution-grid-snake.svg on a schedule.
-3. Then embed it here:
-   <img src="https://raw.githubusercontent.com/eddycurrentz/eddycurrentz/output/github-contribution-grid-snake.svg" width="100%"/>
--->
+<h3 align="center">🐍 Contribution Snake</h3>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eddycurrentz/eddycurrentz/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eddycurrentz/eddycurrentz/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/eddycurrentz/eddycurrentz/output/github-contribution-grid-snake.svg" width="90%"/>
+</picture>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
-
