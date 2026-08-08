@@ -1,57 +1,60 @@
 <div align="center">
 
-  # Hi there, I'm Edwin E Binu 👋
-  ### 🚀 Software Developer & Tech Enthusiast from India
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:38bdf8&height=220&section=header&text=Hi%20there,%20I'm%20Edwin%20E%20Binu%20👋&fontSize=38&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%" />
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&height=50&lines=Building+Algorithmic+Solutions;Learning+React+%26+Database+Systems;Passionate+about+Big+Data+%26+Full-Stack)](https://git.io/typing-svg)
+  ### 🤖 AI Engineer | Data Scientist | Big Data Practitioner
 
+  <!-- Dynamic Typing Effect -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vcenter=true&width=600&height=40&lines=Building+Scalable+Machine+Learning+Pipelines;Architecting+Big+Data+%26+Streaming+Systems;Translating+Data+into+Actionable+Insights" alt="Typing SVG" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Social & Contact Badges -->
   <p align="center">
     <a href="https://linkedin.com/in/eddycurrentz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://twitter.com/eddycurrentz"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-    <a href="https://instagram.com/eddy_currentzz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
     <a href="https://leetcode.com/edwin_emmanuel07"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
     <a href="mailto:edwinebinu07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 
-  ![](https://komarev.com/ghpvc/?username=eddycurrentz&color=00d2ff&style=for-the-badge&label=PROFILE+VIEWS)
+  <!-- Visitor Counter Badge -->
+  <img src="https://komarev.com/ghpvc/?username=eddycurrentz&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
+<br/>
+
 ---
 
-### ⚡ About Me
-
-- 🔭 **Current Focus:** Working heavily on **Algorithms & Data Structures**
-- 🌱 **Learning:** **React** and **Database Management Systems**
-- 💬 **Ask me about:** Algorithmic Thinking, Big Data Architecture, & C/C++
-- 📫 **How to reach me:** `edwinebinu07@gmail.com`
-- ⚡ **Fun fact:** Straightforward, direct, and pragmatic in code and life
+<!-- About Me Section with GIF -->
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3>⚡ About Me</h3>
+      <ul>
+        <li>🔭 <b>Current Focus:</b> Machine Learning Algorithms, Distributed Big Data Pipelines & Real-time Streaming</li>
+        <li>🌱 <b>Learning:</b> Scalable Data Management & Deep Learning Architectures</li>
+        <li>💬 <b>Ask me about:</b> AI/ML Pipelines, Apache Spark, Kafka, Big Data Systems & Problem Solving</li>
+        <li>📫 <b>How to reach me:</b> <code>edwinebinu07@gmail.com</code></li>
+        <li>⚡ <b>Fun fact:</b> Straightforward, direct, and pragmatic in data, code, and life</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://cdni.iconscout.com/illustration/premium/thumb/data-scientist-illustration-download-in-svg-png-gif-file-formats--analysis-analytics-big-processing-pack-business-illustrations-4720937.png" width="300px" alt="Data Science Coding GIF" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🛠️ Languages & Technologies
 
-#### 💻 Languages & Core
+#### 🧠 AI, Machine Learning & Analytics
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-#### 🐘 Big Data & Streaming
-<p>
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
-  <img src="https://img.shields.io/badge/Apache_Hadoop-66CC00?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="Apache Hadoop" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
-  <img src="https://img.shields.io/badge/Apache_ZooKeeper-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache ZooKeeper" />
-</p>
-
-#### 🤖 Data Science, AI & Analytics
-<p>
   <img src="https://img.shields.io/badge/Spark_MLlib-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark MLlib" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/TextBlob-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="TextBlob" />
@@ -60,16 +63,12 @@
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
 </p>
 
-#### 🌐 Frameworks & Web
+#### 🐘 Big Data Engineering & Streaming
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" alt="D3.js" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/Apache_Hadoop-66CC00?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="Apache Hadoop" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
+  <img src="https://img.shields.io/badge/Apache_ZooKeeper-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache ZooKeeper" />
 </p>
 
 #### 🗄️ Databases & Storage
@@ -77,6 +76,21 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="MSSQL" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
+
+#### 💻 Core Languages & Web Frameworks
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" alt="D3.js" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
 </p>
 
 #### 🎨 Creative & Game Dev
@@ -88,7 +102,7 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Activity & Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eddycurrentz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -101,8 +115,23 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eddycurrentz&theme=tokyonight" alt="Streak Stats"/>
 </div>
 
+<br/>
+
+<!-- Activity Snake Animation -->
+<div align="center">
+  <h3>🐍 GitHub Contribution Snake</h3>
+  <img src="https://raw.githubusercontent.com/eddycurrentz/eddycurrentz/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+</div>
+
 ---
 
+<!-- Footer Quote Banner -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Tech Quote" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:161b22,100:0d1117&height=120&section=footer" width="100%" />
 </div>
