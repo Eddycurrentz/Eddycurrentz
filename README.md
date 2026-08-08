@@ -28,7 +28,7 @@
 
 ---
 
-<!-- About Me Section with GIF -->
+<!-- About Me Section with Tech Image -->
 <table>
   <tr>
     <td width="60%" valign="top">
@@ -42,7 +42,7 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://cdni.iconscout.com/illustration/premium/thumb/data-scientist-illustration-download-in-svg-png-gif-file-formats--analysis-analytics-big-processing-pack-business-illustrations-4720937.png" width="300px" alt="Data Science Coding GIF" />
+      <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=400&q=80" width="320px" style="border-radius: 10px;" alt="Data Science & Coding" />
     </td>
   </tr>
 </table>
@@ -113,14 +113,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eddycurrentz&theme=tokyonight" alt="Streak Stats"/>
-</div>
-
-<br/>
-
-<!-- Activity Snake Animation -->
-<div align="center">
-  <h3>🐍 GitHub Contribution Snake</h3>
-  <img src="https://raw.githubusercontent.com/eddycurrentz/eddycurrentz/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </div>
 
 ---
