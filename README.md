@@ -1,8 +1,6 @@
-You're right 😅 — you want **literally ONE copyable block containing everything**, including the workflow. Here it is:
+Ah, I understand now. You want **one clean code block with ONLY the README content**, so the UI gives you **one Copy button**. No extra workflow mixed into it.
 
-````text
-README.md
-
+````markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:00ff88,100:050505&height=200&section=header&text=EDWIN%20E%20BINU&fontSize=52&fontColor=00ff88&fontAlignY=35&desc=AI%20%7C%20DATA%20SCIENCE%20%7C%20BIG%20DATA&descSize=18&descAlignY=58&animation=twinkling" width="100%"/>
@@ -17,36 +15,36 @@ README.md
 
 ---
 
+## `>_ WHOAMI`
+
 ```text
 ┌──────────────────────────────────────────────────────────────┐
-│  edwin@github:~$ ./about_me.sh                               │
-├──────────────────────────────────────────────────────────────┤
 │                                                              │
-│  > Hello, I'm Edwin E Binu                                   │
+│   Edwin E Binu                                               │
+│   AI & Data Science Engineer                                 │
 │                                                              │
-│  AI & Data Science Engineer                                  │
-│  Building systems. Solving problems. Learning continuously.  │
+│   🧠 Machine Learning                                       │
+│   📊 Data Science                                            │
+│   ⚡ Big Data                                                │
+│   🧩 Algorithms                                              │
+│   🗄️ DBMS                                                    │
 │                                                              │
-│  ├─ 🧠 Machine Learning                                      │
-│  ├─ 📊 Data Science                                          │
-│  ├─ ⚡ Big Data                                               │
-│  ├─ 🧩 Algorithms                                             │
-│  └─ 🗄️ DBMS                                                  │
+│   "straightforward, by design."                             │
 │                                                              │
-│  status: ██████████████████████████ ONLINE                  │
+│   STATUS :: ████████████████████████ ONLINE                 │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ````
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2200&pause=500&color=00FF88&center=true&vCenter=true&width=700&lines=Learning+%7C+Building+%7C+Breaking+%7C+Fixing;One+edge+case+at+a+time.;Turning+data+into+something+useful."/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=500&color=00FF88&center=true&vCenter=true&width=700&lines=Learning+%7C+Building+%7C+Breaking+%7C+Fixing;One+edge+case+at+a+time.;Turning+data+into+something+useful."/>
 
 </div>
 
 ---
 
-# `>_ TECH STACK`
+## `>_ TECH STACK`
 
 <div align="center">
 
@@ -56,68 +54,69 @@ README.md
 
 ---
 
-# `>_ SYSTEM STATUS`
+## `>_ SYSTEM STATUS`
 
 ```text
 ╭──────────────────────────────────────────────────────────────╮
 │                                                              │
-│  MACHINE LEARNING       █████████████████░░░   LEARNING      │
-│  DATA SCIENCE           ██████████████████░░   ACTIVE        │
-│  ALGORITHMS             █████████████████░░░   SOLVING       │
-│  BIG DATA               ███████████████░░░░░   BUILDING      │
-│  DATABASES              █████████████████░░░   ACTIVE        │
+│  PYTHON              ████████████████████░   ACTIVE         │
+│  DATA SCIENCE        ██████████████████░░░   ACTIVE         │
+│  MACHINE LEARNING    █████████████████░░░░   LEARNING       │
+│  ALGORITHMS          █████████████████░░░░   SOLVING        │
+│  BIG DATA            ███████████████░░░░░░   BUILDING       │
+│  DATABASES           █████████████████░░░░   ACTIVE         │
 │                                                              │
 ╰──────────────────────────────────────────────────────────────╯
 ```
 
 ---
 
-# `>_ BIG DATA PIPELINE`
+## `>_ BIG DATA PIPELINE`
 
 <div align="center">
 
 ```text
-                         ┌───────────────┐
-                         │  DATA SOURCE  │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │     KAFKA     │
-                         │   STREAMING   │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │    HADOOP     │
-                         │      HDFS     │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │     SPARK     │
-                         │   PROCESSING  │
-                         └───────┬───────┘
-                                 │
-                         ┌───────┴────────┐
-                         ▼                ▼
-                   ┌───────────┐    ┌────────────┐
-                   │   HIVE    │    │     ML     │
-                   │    SQL    │    │  ANALYSIS  │
-                   └─────┬─────┘    └──────┬─────┘
-                         │                 │
-                         └────────┬────────┘
-                                  ▼
-                           ┌─────────────┐
-                           │  INSIGHTS   │
-                           └─────────────┘
+                    ┌───────────────┐
+                    │  DATA SOURCE  │
+                    └───────┬───────┘
+                            │
+                            ▼
+                    ┌───────────────┐
+                    │     KAFKA     │
+                    │   STREAMING   │
+                    └───────┬───────┘
+                            │
+                            ▼
+                    ┌───────────────┐
+                    │    HADOOP     │
+                    │      HDFS     │
+                    └───────┬───────┘
+                            │
+                            ▼
+                    ┌───────────────┐
+                    │     SPARK     │
+                    │   PROCESSING  │
+                    └───────┬───────┘
+                            │
+                     ┌──────┴──────┐
+                     ▼             ▼
+                ┌─────────┐   ┌─────────┐
+                │  HIVE   │   │   ML    │
+                │   SQL   │   │ ANALYSIS│
+                └────┬────┘   └────┬────┘
+                     │             │
+                     └──────┬──────┘
+                            ▼
+                    ┌───────────────┐
+                    │   INSIGHTS    │
+                    └───────────────┘
 ```
 
 </div>
 
 ---
 
-# `>_ GITHUB ANALYTICS`
+## `>_ GITHUB ANALYTICS`
 
 <div align="center">
 
@@ -133,7 +132,7 @@ README.md
 
 ---
 
-# `>_ CONTRIBUTION MATRIX`
+## `>_ CONTRIBUTION MATRIX`
 
 <div align="center">
 
@@ -143,7 +142,7 @@ README.md
 
 ---
 
-# `>_ WHAT I'M BUILDING`
+## `>_ WHAT I'M BUILDING`
 
 <table>
 <tr>
@@ -207,20 +206,20 @@ README.md
 
 ---
 
-# `>_ CURRENTLY LEARNING`
+## `>_ CURRENTLY LEARNING`
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Machine%20Learning-00FF88?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/Data%20Science-00FF88?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/Algorithms-00FF88?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-00FF88?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/DATA%20SCIENCE-00FF88?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/ALGORITHMS-00FF88?style=for-the-badge&labelColor=050505"/>
 <img src="https://img.shields.io/badge/DBMS-00FF88?style=for-the-badge&labelColor=050505"/>
 
 </div>
 
 ---
 
-# `>_ PROJECTS`
+## `>_ PROJECTS`
 
 <div align="center">
 
@@ -232,23 +231,21 @@ README.md
 
 </div>
 
-<br>
-
 ```text
 ╭──────────────────────────────────────────────────────────────╮
 │                                                              │
-│  🚀 BIG DATA PROJECT                                        │
+│  🚀 BIG DATA PIPELINE                                       │
 │                                                              │
 │  Kafka → Hadoop → Spark → Hive → Analytics                  │
 │                                                              │
-│  Real-time data ingestion + distributed processing          │
+│  Real-time ingestion + distributed processing              │
 │                                                              │
 ╰──────────────────────────────────────────────────────────────╯
 ```
 
 ---
 
-# `>_ GITHUB TROPHIES`
+## `>_ GITHUB TROPHIES`
 
 <div align="center">
 
@@ -258,13 +255,15 @@ README.md
 
 ---
 
-# `>_ CONNECT`
+## `>_ CONNECT`
 
 <div align="center">
 
 <a href="mailto:edwinebinu07@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-00FF88?style=for-the-badge&logo=gmail&logoColor=black&labelColor=050505"/>
 </a>
+
+ 
 
 <a href="https://github.com/Eddycurrentz">
 <img src="https://img.shields.io/badge/GITHUB-00FF88?style=for-the-badge&logo=github&logoColor=black&labelColor=050505"/>
@@ -279,9 +278,9 @@ README.md
 ```text
 ╭──────────────────────────────────────────────────────────────╮
 │                                                              │
-│  > connection established                                    │
-│  > session active                                            │
-│  > keep building...                                          │
+│   > connection established                                  │
+│   > session active                                          │
+│   > keep building...                                        │
 │                                                              │
 ╰──────────────────────────────────────────────────────────────╯
 ```
@@ -289,43 +288,4 @@ README.md
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:00ff88,100:050505&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
-
----
-
-<!-- ========================================================= -->
-
-<!-- SNAKE WORKFLOW — SAVE THIS SAME CONTENT AS                 -->
-
-<!-- .github/workflows/snake.yml                                -->
-
-<!-- ========================================================= -->
-
-name: Generate Snake
-
-on:
-schedule:
-- cron: "0 0 * * *"
-workflow_dispatch:
-
-jobs:
-generate:
-runs-on: ubuntu-latest
-
-```
-steps:
-  - uses: Platane/snk@v3
-    with:
-      github_user_name: Eddycurrentz
-      outputs: |
-        dist/github-contribution-grid-snake.svg
-        dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-  - uses: crazy-max/ghaction-github-pages@v4
-    with:
-      build_dir: dist
-    env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-```
 ```
