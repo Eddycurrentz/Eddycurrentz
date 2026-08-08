@@ -1,291 +1,90 @@
-Ah, I understand now. You want **one clean code block with ONLY the README content**, so the UI gives you **one Copy button**. No extra workflow mixed into it.
-
-````markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:00ff88,100:050505&height=200&section=header&text=EDWIN%20E%20BINU&fontSize=52&fontColor=00ff88&fontAlignY=35&desc=AI%20%7C%20DATA%20SCIENCE%20%7C%20BIG%20DATA&descSize=18&descAlignY=58&animation=twinkling" width="100%"/>
+  # Hi there, I'm Edwin E Binu 👋
+  ### 🚀 Software Developer & Tech Enthusiast from India
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=700&color=00FF88&center=true&vCenter=true&width=750&lines=%3E+initializing+Edwin.exe...;%3E+loading+Machine+Learning...;%3E+loading+Big+Data...;%3E+loading+Algorithms...;%3E+loading+Data+Science...;%3E+system+ready+%5B100%25%5D"/>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&height=50&lines=Building+Algorithmic+Solutions;Learning+React+%26+Database+Systems;Passionate+about+Full-Stack+%26+Systems)](https://git.io/typing-svg)
 
-<br><br>
+  <p align="center">
+    <a href="https://linkedin.com/in/eddycurrentz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://twitter.com/eddycurrentz"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+    <a href="https://instagram.com/eddy_currentzz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="https://leetcode.com/edwin_emmanuel07"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+    <a href="mailto:edwinebinu07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
 
-<img src="https://komarev.com/ghpvc/?username=Eddycurrentz&style=for-the-badge&color=00ff88&label=PROFILE+VISITS"/>
+  ![](https://komarev.com/ghpvc/?username=eddycurrentz&color=00d2ff&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## `>_ WHOAMI`
+### ⚡ About Me
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   Edwin E Binu                                               │
-│   AI & Data Science Engineer                                 │
-│                                                              │
-│   🧠 Machine Learning                                       │
-│   📊 Data Science                                            │
-│   ⚡ Big Data                                                │
-│   🧩 Algorithms                                              │
-│   🗄️ DBMS                                                    │
-│                                                              │
-│   "straightforward, by design."                             │
-│                                                              │
-│   STATUS :: ████████████████████████ ONLINE                 │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-````
+- 🔭 **Current Focus:** Working heavily on **Algorithms & Data Structures**
+- 🌱 **Learning:** **React** and **Database Management Systems**
+- 💬 **Ask me about:** Algorithms & Problem Solving
+- 📫 **How to reach me:** `edwinebinu07@gmail.com`
+- ⚡ **Fun fact:** Straightforward, direct, and pragmatic in code and life
+
+---
+
+### 🛠️ Languages & Technologies
+
+#### 💻 Languages & Core
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+#### 🌐 Frameworks & Web
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" alt="D3.js" />
+</p>
+
+#### 🗄️ Databases & Data Tools
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="MSSQL" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+</p>
+
+#### 🎨 Creative & Game Dev
+<p>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+  <img src="https://img.shields.io/badge/Unity-101010?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black" alt="Photoshop" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eddycurrentz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddycurrentz&layout=compact&theme=tokyonight&hide=html,css"/>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=500&color=00FF88&center=true&vCenter=true&width=700&lines=Learning+%7C+Building+%7C+Breaking+%7C+Fixing;One+edge+case+at+a+time.;Turning+data+into+something+useful."/>
+<br/>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eddycurrentz&theme=tokyonight" alt="Streak Stats"/>
 </div>
 
 ---
 
-## `>_ TECH STACK`
-
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,hadoop,kafka,spark,mysql,postgresql,mongodb,nodejs,git,github,vscode,linux,docker&theme=dark"/>
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </div>
-
----
-
-## `>_ SYSTEM STATUS`
-
-```text
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│  PYTHON              ████████████████████░   ACTIVE         │
-│  DATA SCIENCE        ██████████████████░░░   ACTIVE         │
-│  MACHINE LEARNING    █████████████████░░░░   LEARNING       │
-│  ALGORITHMS          █████████████████░░░░   SOLVING        │
-│  BIG DATA            ███████████████░░░░░░   BUILDING       │
-│  DATABASES           █████████████████░░░░   ACTIVE         │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-```
-
----
-
-## `>_ BIG DATA PIPELINE`
-
-<div align="center">
-
-```text
-                    ┌───────────────┐
-                    │  DATA SOURCE  │
-                    └───────┬───────┘
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │     KAFKA     │
-                    │   STREAMING   │
-                    └───────┬───────┘
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │    HADOOP     │
-                    │      HDFS     │
-                    └───────┬───────┘
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │     SPARK     │
-                    │   PROCESSING  │
-                    └───────┬───────┘
-                            │
-                     ┌──────┴──────┐
-                     ▼             ▼
-                ┌─────────┐   ┌─────────┐
-                │  HIVE   │   │   ML    │
-                │   SQL   │   │ ANALYSIS│
-                └────┬────┘   └────┬────┘
-                     │             │
-                     └──────┬──────┘
-                            ▼
-                    ┌───────────────┐
-                    │   INSIGHTS    │
-                    └───────────────┘
-```
-
-</div>
-
----
-
-## `>_ GITHUB ANALYTICS`
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Eddycurrentz&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00ff88&icon_color=00ff88&text_color=ffffff"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eddycurrentz&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00ff88&text_color=ffffff"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Eddycurrentz&theme=matrix&hide_border=true&background=050505&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" width="70%"/>
-
-</div>
-
----
-
-## `>_ CONTRIBUTION MATRIX`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
----
-
-## `>_ WHAT I'M BUILDING`
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧠 AI / ML
-
-```text
-├── Machine Learning
-├── Data Analysis
-├── Predictive Models
-├── NLP
-└── Intelligent Systems
-```
-
-</td>
-
-<td width="50%">
-
-### ⚡ DATA ENGINEERING
-
-```text
-├── Hadoop
-├── Spark
-├── Kafka
-├── Hive
-└── Data Pipelines
-```
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🧩 ALGORITHMS
-
-```text
-├── Problem Solving
-├── Data Structures
-├── Optimization
-└── Edge Cases
-```
-
-</td>
-
-<td width="50%">
-
-### 🗄️ DATABASES
-
-```text
-├── SQL
-├── DBMS
-├── Data Modeling
-└── Query Optimization
-```
-
-</td>
-</tr>
-</table>
-
----
-
-## `>_ CURRENTLY LEARNING`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/MACHINE%20LEARNING-00FF88?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/DATA%20SCIENCE-00FF88?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/ALGORITHMS-00FF88?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/DBMS-00FF88?style=for-the-badge&labelColor=050505"/>
-
-</div>
-
----
-
-## `>_ PROJECTS`
-
-<div align="center">
-
-<a href="https://github.com/Eddycurrentz">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Eddycurrentz&repo=Day2-Random-numbers&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00ff88"/>
-
-</a>
-
-</div>
-
-```text
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│  🚀 BIG DATA PIPELINE                                       │
-│                                                              │
-│  Kafka → Hadoop → Spark → Hive → Analytics                  │
-│                                                              │
-│  Real-time ingestion + distributed processing              │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-```
-
----
-
-## `>_ GITHUB TROPHIES`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Eddycurrentz&theme=matrix&no-frame=true&no-bg=true&margin-w=10&row=1" width="90%"/>
-
-</div>
-
----
-
-## `>_ CONNECT`
-
-<div align="center">
-
-<a href="mailto:edwinebinu07@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-00FF88?style=for-the-badge&logo=gmail&logoColor=black&labelColor=050505"/>
-</a>
-
- 
-
-<a href="https://github.com/Eddycurrentz">
-<img src="https://img.shields.io/badge/GITHUB-00FF88?style=for-the-badge&logo=github&logoColor=black&labelColor=050505"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-```text
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│   > connection established                                  │
-│   > session active                                          │
-│   > keep building...                                        │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:00ff88,100:050505&height=120&section=footer&animation=twinkling" width="100%"/>
-
-</div>
-```
