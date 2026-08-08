@@ -97,7 +97,7 @@
         <td><code>███████████████████░</code> <b>95/100</b></td>
       </tr>
       <tr>
-        <td align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/130.gif" width="32" alt="Gyarados" /><br/><b>Dtabases</b></td>
+        <td align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/130.gif" width="32" alt="Gyarados" /><br/><b>Databases</b></td>
         <td><b>Database Architecture</b><br/><sub>MySQL, MSSQL, Firebase</sub></td>
         <td><code>██████████████░░░░░░</code> <b>75/100</b></td>
       </tr>
@@ -173,7 +173,7 @@
 
 ---
 
-### 📊 Visualization & Gallery
+### 📊 My Motivation
 
 <p align="center">
   <!-- Stock Image 1: Data Analytics Visual -->
