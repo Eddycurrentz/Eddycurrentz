@@ -82,27 +82,27 @@
     </thead>
     <tbody>
       <tr>
-        <td align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/65.gif" width="32" alt="Alakazam" /><br/><b>PSYCHIC</b></td>
+        <td align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/65.gif" width="32" alt="Alakazam" /><br/><b>AI</b></td>
         <td><b>AI & Machine Learning</b><br/><sub>Python, MLlib, TextBlob</sub></td>
         <td><code>██████████████████░░</code> <b>90/100</b></td>
       </tr>
       <tr>
-        <td align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif" width="32" alt="Snorlax" /><br/><b>STEEL / GROUND</b></td>
+        <td align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif" width="32" alt="Snorlax" /><br/><b>Data Science</b></td>
         <td><b>Big Data Engineering</b><br/><sub>Spark, Kafka, Hadoop</sub></td>
         <td><code>████████████████░░░░</code> <b>82/100</b></td>
       </tr>
       <tr>
-        <td align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/137.gif" width="32" alt="Porygon" /><br/><b>ELECTRIC</b></td>
+        <td align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/137.gif" width="32" alt="Porygon" /><br/><b>Programming</b></td>
         <td><b>Algorithms & Logic</b><br/><sub>C/C++, Data Structures</sub></td>
         <td><code>███████████████████░</code> <b>95/100</b></td>
       </tr>
       <tr>
-        <td align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/130.gif" width="32" alt="Gyarados" /><br/><b>WATER / DARK</b></td>
+        <td align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/130.gif" width="32" alt="Gyarados" /><br/><b>Dtabases</b></td>
         <td><b>Database Architecture</b><br/><sub>MySQL, MSSQL, Firebase</sub></td>
         <td><code>██████████████░░░░░░</code> <b>75/100</b></td>
       </tr>
       <tr>
-        <td align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="32" alt="Gengar" /><br/><b>GHOST</b></td>
+        <td align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="32" alt="Gengar" /><br/><b>Development</b></td>
         <td><b>Web & Application Dev</b><br/><sub>React, Flask, Next.js</sub></td>
         <td><code>█████████████░░░░░░░</code> <b>70/100</b></td>
       </tr>
