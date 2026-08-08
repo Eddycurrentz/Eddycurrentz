@@ -3,7 +3,7 @@
   # Hi there, I'm Edwin E Binu 👋
   ### 🚀 Software Developer & Tech Enthusiast from India
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&height=50&lines=Building+Algorithmic+Solutions;Learning+React+%26+Database+Systems;Passionate+about+Full-Stack+%26+Systems)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&height=50&lines=Building+Algorithmic+Solutions;Learning+React+%26+Database+Systems;Passionate+about+Big+Data+%26+Full-Stack)](https://git.io/typing-svg)
 
   <p align="center">
     <a href="https://linkedin.com/in/eddycurrentz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -23,7 +23,7 @@
 
 - 🔭 **Current Focus:** Working heavily on **Algorithms & Data Structures**
 - 🌱 **Learning:** **React** and **Database Management Systems**
-- 💬 **Ask me about:** Algorithms & Problem Solving
+- 💬 **Ask me about:** Algorithmic Thinking, Big Data Architecture, & C/C++
 - 📫 **How to reach me:** `edwinebinu07@gmail.com`
 - ⚡ **Fun fact:** Straightforward, direct, and pragmatic in code and life
 
@@ -36,9 +36,28 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+#### 🐘 Big Data & Streaming
+<p>
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/Apache_Hadoop-66CC00?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="Apache Hadoop" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
+  <img src="https://img.shields.io/badge/Apache_ZooKeeper-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache ZooKeeper" />
+</p>
+
+#### 🤖 Data Science, AI & Analytics
+<p>
+  <img src="https://img.shields.io/badge/Spark_MLlib-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark MLlib" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/TextBlob-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="TextBlob" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
 </p>
 
 #### 🌐 Frameworks & Web
@@ -53,12 +72,11 @@
   <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" alt="D3.js" />
 </p>
 
-#### 🗄️ Databases & Data Tools
+#### 🗄️ Databases & Storage
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="MSSQL" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 </p>
 
 #### 🎨 Creative & Game Dev
