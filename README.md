@@ -54,7 +54,7 @@
 <div align="center">
 
 <!-- Pokédex Header -->
-<img src="https://img.shields.io/badge/POKÉDEX_ID-EDWIN_BINU-38C058?style=for-the-badge&logo=pokemon&logoColor=white" alt="Pokedex ID" />
+<img src="https://img.shields.io/badge/POKÉDEX_ID-EDWIN_BINU-38C058?style=for-the-badge&logo=pokemon&logoColor=white" alt="My Skills" />
 
 <br/><br/>
 
