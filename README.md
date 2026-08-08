@@ -49,7 +49,7 @@
 
 ---
 
-### 🎮 Pokédex Analytics & Skill Matrix
+### 🎮 My Skill Matrix
 
 <div align="center">
 
@@ -75,7 +75,7 @@
   <table>
     <thead>
       <tr>
-        <th align="center">Pokémon Type</th>
+        <th align="center">Skill Type</th>
         <th align="left">Developer Skill / Domain</th>
         <th align="left">Base Stat Level (Graph)</th>
       </tr>
